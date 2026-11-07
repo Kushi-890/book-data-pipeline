@@ -1,0 +1,27 @@
+{
+  "rows_raw": 1000,
+  "missing_description_kept_as_empty": 2,
+  "removed_incomplete": 0,
+  "removed_inconsistent": 0,
+  "removed_duplicates": 0,
+  "rows_final": 1000,
+  "categories": 50,
+  "price_band_edges_gbp": [
+    10.0,
+    26.79,
+    43.58,
+    59.99
+  ],
+  "price_band_counts": {
+    "low": 334,
+    "high": 333,
+    "medium": 333
+  },
+  "split_sizes": {
+    "train": 700,
+    "val": 150,
+    "test": 150
+  },
+  "source": "https://books.toscrape.com/",
+  "prepared_at": "2026-11-07T08:20:39+00:00"
+}
